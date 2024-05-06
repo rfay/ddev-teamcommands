@@ -1,0 +1,10 @@
+#!/bin/bash
+
+#ddev-generated
+## Description: Get a shell inside the web container at the place in the project
+## Usage: here [flags] [args]
+## Example: "ddev here"
+## ExecRaw: true
+## HostWorkingDir: true
+
+bash "$@"
